@@ -7,7 +7,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/cgilmour/uuid"
+	"github.com/cgilmour/go-modules/uuid"
 	"os"
 )
 
